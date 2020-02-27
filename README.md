@@ -1,0 +1,2 @@
+# AdHocSQL
+Unsorted SQL scripts
